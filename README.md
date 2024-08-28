@@ -1,3 +1,14 @@
+Raspberry Pi Pico 2 Audio Library
+=================================
+
+Hacking and experimenting with porting the Teensy Audio Library to the new Raspberry Pi Pico 2, which could fit nicely as a low cost introduction to audio processing where a Teensy 4 is not required and fill the gap left by the Teensy 3.
+
+---
+
+Everything below is the original README for the Teensy Audio Library.
+
+---
+
 Teensy Audio Library
 ====================
 
